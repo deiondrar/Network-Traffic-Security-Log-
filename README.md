@@ -1,7 +1,10 @@
-Network Traffic & Security Log Analysis
-Objective
+<h1>Network Traffic & Security Log Analysis<h1/>
+
+ 
+<h2>Objective<h2/>
+ 
 The objective of this lab was to analyze network traffic and system logs to identify the user responsible for suspicious SMTP activity. Wireshark was used to examine a provided capture (PCAP) file, while DHCP and security logs were analyzed to correlate the network activity with a specific device and user account
-Tools and Files
+<b>Tools and Files<b/>
 •	Wireshark
 •	PCAP network capture file
 •	DHCP log
